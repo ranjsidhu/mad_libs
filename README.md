@@ -1,3 +1,3 @@
 # mad_libs
-MadLibs Generator
+MadLibs Generator + "\n"
 Includes Exception and Error Handling
